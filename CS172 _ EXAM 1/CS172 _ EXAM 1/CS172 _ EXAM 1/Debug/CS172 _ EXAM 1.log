@@ -1,0 +1,10 @@
+﻿  Theater.cpp
+c:\users\aaron c meyers\desktop\cs172 _ exam 1\cs172 _ exam 1\cs172 _ exam 1\theater.cpp(76): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\aaron c meyers\desktop\cs172 _ exam 1\cs172 _ exam 1\cs172 _ exam 1\theater.cpp(84): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Movie.cpp
+  Generating Code...
+c:\users\aaron c meyers\desktop\cs172 _ exam 1\cs172 _ exam 1\cs172 _ exam 1\theater.cpp(69): warning C4715: 'Theater::GetShowTimeForGenre': not all control paths return a value
+  Compiling...
+  EXAM 1 Testing Code.cpp
+  Generating Code...
+  CS172 _ EXAM 1.vcxproj -> C:\Users\Aaron C Meyers\Desktop\CS172 _ EXAM 1\CS172 _ EXAM 1\Debug\CS172 _ EXAM 1.exe
