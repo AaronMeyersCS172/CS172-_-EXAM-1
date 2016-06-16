@@ -5,6 +5,9 @@
 // Exam 1: Practical
 //////////////////////////////////////////
 
+//PT -- some minor code style issues in Theater.h and Theater.cpp.
+//        93/100
+
 #include <iostream>
 #include "Movie.h"
 #include "Theater.h"
