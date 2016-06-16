@@ -6,6 +6,8 @@
 Aaron Meyers
 ,and that any help I received adhered to the rules stated for this exam.*/
 
+//PT -- Better to have your SIZE variables as consts in the theater header file, rather than local variables
+//      to these functions.
 
 
 // This function takes in inputs from the user and transfers them to the variable of "TheaterName" and "TheaterPhone" 
