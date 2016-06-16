@@ -6,6 +6,9 @@
 #include "Movie.h"
 using namespace std;
 
+//PT -- the array should be an array of movie objects, and not three arrays containing the three parts of a movie.
+//    Movie movies[11];
+
 class Theater
 {
 private:
